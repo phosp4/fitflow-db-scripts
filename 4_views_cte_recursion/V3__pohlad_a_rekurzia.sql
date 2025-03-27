@@ -1,0 +1,12 @@
+-- create trigger trg_autoUpdatedAtUsers
+-- on users
+-- after update
+-- as
+--     if (not update(updated_at))
+--     begin
+--         update updated_at
+--         set updated_at = getdate()
+--         from users
+--             inner join inserted I on users.id = I.id
+--     end
+-- end
