@@ -1,0 +1,2 @@
+Názov projektu: FitFlow
+Opis projektu: FitFlow je systém na manažment fitness centra, ktorý integruje správu členov, trénerov a aktivít do jedného uceleného riešenia. Jeho implementácia má potenciál značne zjednodušiť a zjednotiť rôzne aspekty fungovania fitness centier.
